@@ -4,7 +4,7 @@
 #
 Name     : mvn-apache-log4j-extras
 Version  : log4j.extras.1.2.17
-Release  : 2
+Release  : 3
 URL      : https://github.com/apache/log4j-extras/archive/apache-log4j-extras-1.2.17.tar.gz
 Source0  : https://github.com/apache/log4j-extras/archive/apache-log4j-extras-1.2.17.tar.gz
 Source1  : https://repo1.maven.org/maven2/log4j/apache-log4j-extras/1.2.17/apache-log4j-extras-1.2.17.jar
